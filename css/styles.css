@@ -1,0 +1,24 @@
+.wrapper {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.box-button {
+	margin-top: 20px;
+}
+
+.js-button-success {
+	position: relative;
+}
+
+.box-menu ul li {
+	list-style: none;
+}
+
+.button-success {
+	background: blue;
+}
+
+.button-red {
+	background: red;
+}
